@@ -1,4 +1,4 @@
-   Previsão de Preços de Imóveis
+🚀Previsão de Preços de Imóveis
 Este é um projeto de Machine Learning para iniciantes cujo objetivo é prever o preço de imóveis com base em suas características. O script implementa um pipeline completo, desde o carregamento e pré-processamento dos dados até o treinamento e avaliação comparativa de dois modelos de regressão.
 
 📜 Sobre o Projeto
