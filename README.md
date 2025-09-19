@@ -45,13 +45,6 @@ Python 3.8 ou superior
 Git (para clonar o repositório)
 
 Passos de Instalação
-Clone o repositório:
-
-Bash
-
-git clone https://github.com/SEU_USUARIO/NOME_DO_SEU_REPOSITORIO.git
-cd NOME_DO_SEU_REPOSITORIO
-Crie e ative um ambiente virtual (Recomendado):
 
 Bash
 
